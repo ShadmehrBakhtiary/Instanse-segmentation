@@ -40,5 +40,3 @@ To run this code, you need to clone the TensorFlow Models repository and install
 - [COCO Dataset](https://cocodataset.org/)
 
 ---
-
-Feel free to customize this README file further based on your specific requirements or additional information you would like to include.
