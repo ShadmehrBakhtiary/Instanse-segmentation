@@ -31,6 +31,7 @@ To run this code, you need to clone the TensorFlow Models repository and install
 - Six
 ## results
 ![raw Image](https://github.com/ShadmehrBakhtiary/Instanse-segmentation/raw/main/Screenshot%202024-04-09%20225238.png)
+![result image](https://github.com/ShadmehrBakhtiary/Instanse-segmentation/blob/main/Screenshot%202024-04-09%20225311.png?raw=true)
 
 ## References
 
