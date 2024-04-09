@@ -20,10 +20,6 @@ To run this code, you need to clone the TensorFlow Models repository and install
 4. Run inference on the selected image using the loaded model.
 5. Visualize the results by plotting the detected objects and segmentation masks on the image.
 
-## Contents
-
-- `C3_W3_Lab_3_Mask-RCNN-ImageSegmentation.ipynb`: Jupyter Notebook file containing the code for the Mask R-CNN Image Segmentation demo.
-- `mscoco_label_map.pbtxt`: Label map file containing class IDs and names used in the COCO dataset.
 
 ## Dependencies
 
